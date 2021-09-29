@@ -1,4 +1,4 @@
-    /* === GENERAL STYLES === */
+  /* === GENERAL STYLES === */
     
     * {
         box-sizing: border-box;
@@ -329,4 +329,4 @@
         .footer {
             min-height: 7vh;
         }
-    }
+    } 
